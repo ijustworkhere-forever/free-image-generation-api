@@ -1,0 +1,10 @@
+name = "free-image-generation-api"
+main = "worker.js"
+compatibility_date = "2026-03-12"
+
+# Environment variables (set these in Cloudflare dashboard)
+# [vars]
+# API_KEY = "your-secret-api-key"
+
+# Workers AI binding
+# The AI service binding name is "AI" - set this in Cloudflare dashboard
